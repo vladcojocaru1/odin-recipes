@@ -1,0 +1,29 @@
+[33mcommit 2f4b0549ad0ee6335fe7c24eeaa4606668d49363[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Vlad Cojocaru <cojocaru.vld@gmail.com>
+Date:   Sat Jun 3 15:45:48 2023 -0400
+
+    Format index, first iteration finished
+
+[33mcommit 677cb39b15c814085dc553340fd51c000040fd00[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vlad Cojocaru <cojocaru.vld@gmail.com>
+Date:   Sat Jun 3 15:39:39 2023 -0400
+
+    Add all recipes
+
+[33mcommit f11e9570ac15d10c569215a237be8048ebcce06f[m
+Author: Vlad Cojocaru <cojocaru.vld@gmail.com>
+Date:   Sat Jun 3 15:26:49 2023 -0400
+
+    Populate recipe grilled-asparagus
+
+[33mcommit 5793bc5f7a68e4236c9886fc07b287b63a6da5a7[m
+Author: Vlad Cojocaru <cojocaru.vld@gmail.com>
+Date:   Sat Jun 3 15:06:52 2023 -0400
+
+    Create links to recipe files in the index
+
+[33mcommit 4ec3d5b192d4dc9e700c0db2e798b97069400fa0[m
+Author: Vlad <54751087+vladcojocaru1@users.noreply.github.com>
+Date:   Sat Jun 3 14:50:18 2023 -0400
+
+    Initial commit
